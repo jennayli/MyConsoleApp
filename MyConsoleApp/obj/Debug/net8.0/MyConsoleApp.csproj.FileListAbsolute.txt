@@ -1,0 +1,14 @@
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/Users/jenna/projects/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
